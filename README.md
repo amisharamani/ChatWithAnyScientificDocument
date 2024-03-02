@@ -1,0 +1,5 @@
+![Screenshot 2024-03-02 123246](https://github.com/amisharamani/ChatWithAnyScientificDocument/assets/130687844/6f07a86e-e1e5-4d7d-b637-d8dbf4abae03)
+![Screenshot 2024-03-02 123341](https://github.com/amisharamani/ChatWithAnyScientificDocument/assets/130687844/196b7f41-bd74-478a-ba51-bf55a8a65f53)
+![Screenshot 2024-03-02 123213](https://github.com/amisharamani/ChatWithAnyScientificDocument/assets/130687844/8bb677fc-86b3-4743-abb7-cf94a77be359)
+![image](https://github.com/amisharamani/ChatWithAnyScientificDocument/assets/130687844/4a7e2762-a87e-454d-8668-7471a4718639)
+![image](https://github.com/amisharamani/ChatWithAnyScientificDocument/assets/130687844/3de674ba-cbdc-480a-8bb2-a5cf2f58e72a)
