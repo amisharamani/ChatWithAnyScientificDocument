@@ -1,0 +1,14 @@
+€ @ [ D locathost:8000/submitimage/ Q x | 20H:
+Apps S git-Howtorem @Lecture-14Red [J The Djangotem; [} Shellcodingfor! Private, protect: @ How-To: Python @ Arduinocamera €) pageauc/motion [} FS#32533:[ette J Integration with »
+
+OCR Application using Flask
+Documentation
+Amit edited Ihls page on 4 Jul 9 revisions
+
+Technical papers describing various aspects of
+Tesseract
+
+Copyright Notice
+
+lownload
+
